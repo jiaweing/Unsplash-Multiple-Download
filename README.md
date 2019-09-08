@@ -17,4 +17,4 @@ This is a script that instantly downloads all images on a page on the Unsplash p
 ### DISCLAIMER
 This script was not made with the intent to flood Unsplash with malicious traffic, but as a utility to make it easier to download multiple images at once from the platform.
 
-**How the script works**: When the script is run, all download links on the page will be opened in a new tab.
+When the script is run, all download links on the page will be opened in a new tab.
